@@ -6,7 +6,7 @@ _Texte, mail, message provenant de l'asso, d'un adhérent ou autre_
 ## Transformation :  
 ### Faisabilité / Spec complète : 
 - [ ] OK - _Description complète et faisable_
-- [ ] NOK - _Description incomplète, besoin de renseignement suplémentaire ou faisabilité incertaine_
+- [ ] NOK - _Description incomplète, besoin de renseignement supplémentaire ou faisabilité incertaine_
 - [ ] KO - _Infaisable en l'état, besoin de spec particulière_
 
 ### Description / Spec : 
